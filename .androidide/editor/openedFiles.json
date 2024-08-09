@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/My Application4/app/src/main/java/com/example/myapplication4/ActivityUtama.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1048,
+          "line": 34
+        },
+        "start": {
+          "column": 0,
+          "index": 1048,
+          "line": 34
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/My Application4/app/src/main/res/layout/layout_activity_utama.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/My Application4/app/src/main/java/com/example/myapplication4/adapter/VolcanoAdapter.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/My Application4/app/src/main/java/com/example/myapplication4/ActivityUtama.java"
+}
